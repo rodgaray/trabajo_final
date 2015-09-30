@@ -3,7 +3,22 @@
 	color:#fff;
 }*/
 
+#myCarousel {
+	margin-bottom: 30px;
+}
 
+.dest1 {
+	text-align: center;
+
+}
+
+.dest2 {
+	text-align: center;
+}
+
+.dest3 {
+	text-align: center;
+}
 
 .main {
 	background:#f2f2f2;
