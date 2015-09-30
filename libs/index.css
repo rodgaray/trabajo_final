@@ -11,6 +11,11 @@
 	text-align: center;
 }
 
+.imagen {
+	margin: 0 auto;
+	display: block;
+}
+
 .main {
 	background:#f2f2f2;
 }
